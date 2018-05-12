@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '32638'
     url: http://www.gutenberg.org/2009/agents/32638
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40668#A-Quarter-Back-s-PluckA-Story-of-College-Football
 gutenberg_issued: '2012-09-05'
 gutenberg_type: Text
 identifiers:
